@@ -2,4 +2,3 @@
 - 👀 I’m interested in programming, playing tennis and other sports, having fun with my friends, etc...
 - 🌱 I’m currently learning web development thanks to web@cadémie by EPITECH-Lille
 - 📫 How to reach me: theogillet.developpement@gmail.com
-- My resume => https://llegit.github.io/my_cv/
